@@ -2,7 +2,6 @@
   "name": "mon-site",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://TON-UTILISATEUR.github.io/mon-site",  
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
@@ -21,6 +20,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "https://TON-UTILISATEUR.github.io/mon-site",  // Remplace TON-UTILISATEUR par ton nom GitHub
   "eslintConfig": {
     "extends": [
       "react-app",
